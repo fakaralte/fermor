@@ -1,6 +1,17 @@
 Fermor Homepage
 
-A responsive, working homepage for Fermor, a finance platform that makes money simpler, clearer and easier to use. Built with plain HTML, CSS and JavaScript, with no build step.Approach
+A responsive, working homepage for Fermor, a finance platform that makes money simpler, clearer and easier to use. Built with plain HTML, CSS and JavaScript, with no build step.
+
+## Screenshots
+
+### Desktop
+![Desktop view](screenshots/desktop-home.png)
+
+### Mobile
+![Mobile view](screenshots/mobile-home.png)
+
+
+Approach
 
 The page is for people who want to understand their money . The hero shows the product working: an interactive "Safe to spend" card that updates as you tap bills on or off. Below it are features, how it works, a goal calculator, loan offerings, audiences, an FAQ and an early-access signup.
 
